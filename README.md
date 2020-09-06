@@ -1,7 +1,9 @@
 # Lab03 Guide
 ## Getting Started
 
-Please watch the Lab03 Walkthough Video.
+Please watch the [Lab03 Walkthough Video](https://www.youtube.com/playlist?list=PLvnIObHoMl8d-APOWvVOW62VVen6RbeUn).
+
+Please review the [CS253 Style Guide](https://docs.google.com/document/d/1zKIpNfkiPpDHEvbx8XSkZbUEUlpt8rnZjkhCSvM-_3A/edit?usp=sharing) and us it in all lab warmups, lab activities and projects this semester
 
 ## Lab Warmup - Variables, input and casting
 ### Problem Description
