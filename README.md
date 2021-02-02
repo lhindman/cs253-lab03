@@ -101,7 +101,7 @@ Paint needed: 0.51 gallons
 ```
 
 <br />
-3. Extend to also calculate and output the number of 1 gallon cans needed to paint the wall. Hint: Use a math function to round up to the nearest gallon.  
+3. Extend to also calculate and output the number of 1 gallon cans needed to paint the wall. This should be represented as an integer value. Hint: Use a math function to round up to the nearest gallon.  
 
 ```
 Enter wall height (feet):
@@ -112,11 +112,6 @@ Wall area: 180.00 square feet
 Paint needed: 0.51 gallons
 Cans needed: 1 can(s)
 ```
-
-Output each floating-point value with two digits after the decimal point, which can be achieved as follows:
-<br />  
-
-`printf("%0.2lf", yourValue);`
 
 ### Implementation Guide
 1. Expand the folder named LabActivity and open the file named main.c
